@@ -1,0 +1,8 @@
+{
+    "name": "Chris' Testing Organization Workflow",
+    "description": "Runs a thing when the repo name starts with a 'C'",
+    "iconName": "tools",
+    "categories": [
+        "continuous-integration"
+    ]
+}
